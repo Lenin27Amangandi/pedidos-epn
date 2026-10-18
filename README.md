@@ -8,7 +8,7 @@ Este módulo forma parte del sistema de gestión para la **Cafetería EPN**. Se 
 
 - **Lenin Amangandi**
 - **Alegria Farinango**
-- **Erick Guerrero**
+- **Erik Guerrero**
 - **Rommel Rivera**
 
 ---
