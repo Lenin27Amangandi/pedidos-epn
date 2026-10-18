@@ -1,6 +1,6 @@
 #  Módulo de Pedidos — Cafetería EPN
 
-Este módulo forma parte del sistema de gestión para la **Cafetería EPN**. Se encarga de la administración, registro y control de pedidos de productos realizados por sucursal a los diferentes proveedores, basándose en el módulo de inventario[cite: 3, 5].
+Este módulo forma parte del sistema de gestión para la **Cafetería EPN**. Se encarga de la administración, registro y control de pedidos de productos realizados por sucursal a los diferentes proveedores, basándose en el módulo de inventario.
 
 ---
 
